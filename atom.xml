@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chamberlain927.github.io</id>
     <title>Chamberlain</title>
-    <updated>2019-06-16T12:53:15.342Z</updated>
+    <updated>2019-06-16T17:30:10.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chamberlain927.github.io"/>
     <link rel="self" href="https://chamberlain927.github.io/atom.xml"/>
@@ -11,13 +11,15 @@
     <icon>https://chamberlain927.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Chamberlain</rights>
     <entry>
-        <title type="html"><![CDATA[Hello world]]></title>
+        <title type="html"><![CDATA[Hello World]]></title>
         <id>https://chamberlain927.github.io/post/hello-world</id>
         <link href="https://chamberlain927.github.io/post/hello-world">
         </link>
         <updated>2019-06-16T04:47:00.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>HELLO WOELD</strong></p>
-<p>期許自己不斷的增加自己沒有的技能</p>
+        <content type="html"><![CDATA[<p><strong>HELLO WORLD</strong></p>
+<p>Hello my personal page !
+就以在冬日的合歡山上被冰封的灌木叢們作爲這裡一切的開始吧。
+寒冷，才看得到堅韌。</p>
 ]]></content>
     </entry>
     <entry>
@@ -26,7 +28,11 @@
         <link href="https://chamberlain927.github.io/post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>一個期許自己永遠以新手的心態看向世界的菜鳥</p>
+]]></summary>
         <content type="html"><![CDATA[<p>一個期許自己永遠以新手的心態看向世界的菜鳥</p>
+<!-- more -->
+<p>還是要累積足夠的經驗啊</p>
 ]]></content>
     </entry>
 </feed>
