@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>D:/gridea/file/output</id>
+    <id>https://chamberlain927.github.io</id>
     <title>Gridea</title>
-    <updated>2019-06-15T17:08:15.781Z</updated>
+    <updated>2019-06-16T04:51:25.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="D:/gridea/file/output"/>
-    <link rel="self" href="D:/gridea/file/output/atom.xml"/>
+    <link rel="alternate" href="https://chamberlain927.github.io"/>
+    <link rel="self" href="https://chamberlain927.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>D:/gridea/file/output/images/avatar.png</logo>
-    <icon>D:/gridea/file/output/favicon.ico</icon>
+    <logo>https://chamberlain927.github.io/images/avatar.png</logo>
+    <icon>https://chamberlain927.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[Hello world]]></title>
+        <id>https://chamberlain927.github.io/post/hello-world</id>
+        <link href="https://chamberlain927.github.io/post/hello-world">
+        </link>
+        <updated>2019-06-16T04:47:00.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>HELLO WOELD</strong>
+期許自己不斷的增加不同的技能</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>D:/gridea/file/output/post/hello-gridea/index.html</id>
-        <link href="D:/gridea/file/output/post/hello-gridea/index.html">
+        <id>https://chamberlain927.github.io/post/hello-gridea</id>
+        <link href="https://chamberlain927.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
